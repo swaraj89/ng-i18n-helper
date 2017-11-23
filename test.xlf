@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="deleteIconText" datatype="html">
+        <source>Delete Item</source>
+        <target>Delete Item</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleDeleteText" datatype="html">
+        <source>Delete</source>
+        <target>Delete</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteConfirmationText" datatype="html">
+        <source>Delete?</source>
+        <target>Delete?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleYesText" datatype="html">
+        <source>Yes</source>
+        <target>Yes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleCancelText" datatype="html">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleNoText" datatype="html">
+        <source>No</source>
+        <target>No</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\shared\components\delete\delete.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerTitle" datatype="html">
+        <source>Action Center</source>
+        <target>Action Center</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-root\action-center-root.component.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="groupViewLinkText" datatype="html">
+        <source>Switch to App Group View</source>
+        <target>Switch to App Group View</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="actCenterHeaderTitle" datatype="html">
+        <source>Your actions</source>
+        <target>Your actions</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-root\action-center-root.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="optCreatedDate" datatype="html">
+        <source>Created Date</source>
+        <target>Created Date</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="optDueDate" datatype="html">
+        <source>Due Date</source>
+        <target>Due Date de</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noDataText" datatype="html">
+        <source>No data available</source>
+        <target>No data available</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-root\action-center-root.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="itemTodayText" datatype="html">
+        <source>TODAY</source>
+        <target>TODAY de</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-item-group\action-item-group.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ShowMore" datatype="html">
+        <source>Show more data</source>
+        <target>Show more data</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-item-group\action-item-group.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-app\action-center-app.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noMoreData" datatype="html">
+        <source>No more data</source>
+        <target>No more data</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-item-group\action-item-group.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-app\action-center-app.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="actionPoint" datatype="html">
+        <source>Action Point</source>
+        <target>Action Point</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpLabelTitle" datatype="html">
+        <source>Title</source>
+        <target>Title</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorTitleReq" datatype="html">
+        <source>Title is required</source>
+        <target>Title is required</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorTitleMaxLength" datatype="html">
+        <source>The field Title must be a string with a maximum length of 50.</source>
+        <target>The field Title must be a string with a maximum length of 50.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpLabelPriority" datatype="html">
+        <source>Priority</source>
+        <target>Priority</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorPriorityReq" datatype="html">
+        <source>The field Priority must be between 0 and 9999999</source>
+        <target>The field Priority must be between 0 and 9999999</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorPriorityMaxLength" datatype="html">
+        <source>The field Priority must be between 0 and 9999999</source>
+        <target>The field Priority must be between 0 and 9999999</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorPriorityPattern" datatype="html">
+        <source>The field Priority must be between 0 and 9999999</source>
+        <target>The field Priority must be between 0 and 9999999</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpLabelDescription" datatype="html">
+        <source>Description</source>
+        <target>Description</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formErrorDescriptionMaxLength" datatype="html">
+        <source>The field Description must be a string with a maximum length of 500.</source>
+        <target>The field Description must be a string with a maximum length of 500.</target>target
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpLabelDueDate" datatype="html">
+        <source>Due Date</source>
+        <target>Due Date</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpLabelState" datatype="html">
+        <source>State</source>
+        <target>State</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpBtnLabelCancel" datatype="html">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpBtnLabelSave" datatype="html">
+        <source>Save</source>
+        <target>Save</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\action-center-form\action-center-form.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dateGroupViewLinkText" datatype="html">
+        <source>Switch to Date Group View</source>
+        <target>Switch to Date Group View</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-root\action-center-root.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addText" datatype="html">
+        <source>Add</source>
+        <target>Add</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-root\action-center-root.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="editItem" datatype="html">
+        <source>Edit Item</source>
+        <target>Edit Item</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-item\action-center-item.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="inpTitleTitle" datatype="html">
+        <source>Title</source>
+        <target>Title</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\modules\action-center\components\action-center-task-form\action-center-task-form.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

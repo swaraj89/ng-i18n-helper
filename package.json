@@ -1,0 +1,18 @@
+{
+  "name": "xmlparser",
+  "version": "1.0.0",
+  "description": "Convert your xml file to json",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swaraj Panigrahi",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.1",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "msexcel-builder": "0.0.2"
+  }
+}
