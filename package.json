@@ -1,7 +1,7 @@
 {
-  "name": "xmlparser",
-  "version": "1.0.0",
-  "description": "Convert your xml file to json",
+  "name": "ng-18n-helper",
+  "version": "0.0.1",
+  "description": "During i18n for ng apps, a xml file is generated. This app helps you to consolidate all the static text into a excel from the xml. So that you can use it for translation.",
   "main": "parse.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,7 @@
   "author": "Swaraj Panigrahi",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.3.0",
     "commander": "^2.12.1",
     "xml2js": "^0.4.19"
   },
